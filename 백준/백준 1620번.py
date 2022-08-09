@@ -1,5 +1,4 @@
 from curses.ascii import isalpha
-from re import A
 import sys
 
 N, M = map(int,sys.stdin.readline().split())
