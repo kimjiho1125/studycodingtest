@@ -1,7 +1,4 @@
 import sys 
-import time
-
-start = time.time()
 
 input = sys.stdin.readline
 
@@ -19,4 +16,3 @@ while True:
         break
 
 print(count)
-print("time : ", time.time()-start)
