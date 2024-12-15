@@ -1,0 +1,6 @@
+print()
+print("{")
+print(' "Illuminance": 28,')
+print(' "Color": "R128 G0 B56"')
+print("}")
+print()
